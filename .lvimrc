@@ -1,14 +1,19 @@
 let g:ycm_log_level = 'debug'
-set verbose=1
+set verbose=0
+let g:ycm_confirm_extra_conf = 0
 
-" g:ale_c_build_dir_names
-" if ! empty($ROS_WORKSPACE)
-" endif
-" fun! g:RosBuildSpace()
-    
-" endf
+if ! empty($ROS_WORKSPACE)
+endif
 
-fun! g:RosCppBufFun()
+if !empty($IDE_INCLUDE_FLAGS)
+    let g:ide_include_flags = join(split($IDE_INCLUDE_FLAGS, ':'), ' ')
+    let g:ale_cpp_gcc_options='-std=c++11 -Wall '.g:ide_include_flags
+    " let g:ale_cpp_clangcheck_options="-- -Wall -std=c++11 -x c++ ".g:ide_include_flags
+    " let g:ale_c_clangcheck_options="-- -Wall -std=c99 -x c ".g:ide_include_flags
+endif
+fun! g:CppFileFlags()
+    let b:ale_linters = ['gcc']
+
     if empty($ROS_WORKSPACE)
         execute "echoerr ROS_WORKSPACE not set!"
     endif
@@ -20,7 +25,8 @@ fun! g:RosCppBufFun()
     let l:path = expand('%:p:h')
     call xolox#misc#msg#debug('path...'.l:path)
     
-    let l:packnamecmd = 'cd '.shellescape(l:path).'; catkin list --workspace '.shellescape(l:workspace).' -u --this 2>/dev/null'
+    let l:packnamecmd = 'cd '.shellescape(l:path).'; catkin list -u --this'
+    " let l:packnamecmd = 'cd '.shellescape(l:path).'; catkin list --workspace '.shellescape(l:workspace).' -u --this'
     call xolox#misc#msg#debug('packnamecmd '.l:packnamecmd)
     let l:packagenameL = systemlist(l:packnamecmd)
     if v:shell_error
@@ -49,7 +55,8 @@ fun! g:RosCppBufFun()
     if filereadable(l:compilecommands)
         let b:ale_c_build_dir = l:builddir
         call xolox#misc#msg#info('set ALE b:ale_c_build_dir to '.l:builddir)
-        let b:ale_linters = ['cppcheck', 'clangcheck', 'clangtidy', 'cquery']
+        let b:ale_linters = ['cpp']
+        " let b:ale_linters = ['cpp', 'cppcheck', 'clangcheck', 'clangtidy', 'cquery']
         return
     else
         call xolox#misc#msg#debug('no compile_commands.json found in ' . l:builddir)
@@ -58,7 +65,7 @@ endf
 
 augroup roscpp
     au!
-    autocmd FileType c :call g:RosCppBufFun()
-    autocmd FileType cpp :call g:RosCppBufFun()
+    autocmd FileType c :call g:CppFileFlags()
+    autocmd FileType cpp :call g:CppFileFlags()
 augroup end
 
