@@ -1,0 +1,224 @@
+================['-Wall', '-Wextra', '-Werror', '-Wc++98-compat', '-Wno-long-long', '-Wno-variadic-macros', '-fexceptions', '-DNDEBUG', '-std=c++03', '-x', 'c++', '-I', '.']1
+================
+['-Wall', '-Wextra', '-Werror', '-Wc++98-compat', '-Wno-long-long', '-Wno-variadic-macros', '-fexceptions', '-DNDEBUG', '-std=c++03', '-x', 'c++', '-I', '.']
+0
+1
+9
+================
+['-Wall', '-Wextra', '-Werror', '-Wc++98-compat', '-Wno-long-long', '-Wno-variadic-macros', '-fexceptions', '-DNDEBUG', '-std=c++03', '-x', 'c++', '-I', '.']
+0
+1
+2
+pkg_name: urdf_traverser
+dir: /home/simon/sandbox/graspitmod/catkin_ws/build/urdf_traverser
+9
+================
+['-Wall', '-Wextra', '-Werror', '-Wc++98-compat', '-Wno-long-long', '-Wno-variadic-macros', '-fexceptions', '-DNDEBUG', '-std=c++03', '-x', 'c++', '-I', '.', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/devel/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_ros_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/arm_components_name_manager/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/baselib_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf2inventor/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/logger_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/urdf2graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_math_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_viewer/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_traverser/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit_ros/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_transform/include', '-isystem', '/opt/ros/kinetic/include']
+0
+1
+2
+pkg_name: urdf_traverser
+dir: /home/simon/sandbox/graspitmod/catkin_ws/build/urdf_traverser
+9
+================
+['-Wall', '-Wextra', '-Werror', '-Wc++98-compat', '-Wno-long-long', '-Wno-variadic-macros', '-fexceptions', '-DNDEBUG', '-std=c++03', '-x', 'c++', '-I', '.', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/devel/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_ros_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/arm_components_name_manager/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/baselib_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf2inventor/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/logger_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/urdf2graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_math_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_viewer/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_traverser/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit_ros/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_transform/include', '-isystem', '/opt/ros/kinetic/include']
+0
+1
+2
+pkg_name: urdf_traverser
+dir: /home/simon/sandbox/graspitmod/catkin_ws/build/urdf_traverser
+9
+================
+['-Wall', '-Wextra', '-Werror', '-Wc++98-compat', '-Wno-long-long', '-Wno-variadic-macros', '-fexceptions', '-DNDEBUG', '-std=c++03', '-x', 'c++', '-I', '.', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/devel/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_ros_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/arm_components_name_manager/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/baselib_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf2inventor/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/logger_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/urdf2graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_math_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_viewer/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_traverser/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit_ros/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_transform/include', '-isystem', '/opt/ros/kinetic/include']
+0
+1
+2
+pkg_name: urdf2graspit
+dir: $ROS_WORKSPACE/build/urdf2graspit
+9
+================
+['-Wall', '-Wextra', '-Werror', '-Wc++98-compat', '-Wno-long-long', '-Wno-variadic-macros', '-fexceptions', '-DNDEBUG', '-std=c++03', '-x', 'c++', '-I', '.', '-isystem', '$ROS_WORKSPACE/devel/include', '-isystem', '/opt/ros/kinetic/include']
+0
+1
+2
+pkg_name: urdf2graspit
+dir: /home/simon/sandbox/graspitmod/catkin_ws/build/urdf2graspit
+9
+================
+['-Wall', '-Wextra', '-Werror', '-Wc++98-compat', '-Wno-long-long', '-Wno-variadic-macros', '-fexceptions', '-DNDEBUG', '-std=c++03', '-x', 'c++', '-I', '.', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/devel/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_ros_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/arm_components_name_manager/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/baselib_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf2inventor/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/logger_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/urdf2graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_math_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_viewer/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_traverser/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit_ros/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_transform/include', '-isystem', '/opt/ros/kinetic/include']
+0
+1
+2
+pkg_name: urdf2graspit
+dir: /home/simon/sandbox/graspitmod/catkin_ws/build/urdf2graspit
+9
+================
+['-Wall', '-Wextra', '-Werror', '-Wc++98-compat', '-Wno-long-long', '-Wno-variadic-macros', '-fexceptions', '-DNDEBUG', '-std=c++03', '-x', 'c++', '-I', '.', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/devel/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_ros_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/arm_components_name_manager/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/baselib_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf2inventor/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/logger_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/urdf2graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_math_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_viewer/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_traverser/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit_ros/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_transform/include', '-isystem', '/opt/ros/kinetic/include']
+0
+1
+2
+pkg_name: urdf2inventor
+dir: /home/simon/sandbox/graspitmod/catkin_ws/build/urdf2inventor
+9
+================
+['-Wall', '-Wextra', '-Werror', '-Wc++98-compat', '-Wno-long-long', '-Wno-variadic-macros', '-fexceptions', '-DNDEBUG', '-std=c++03', '-x', 'c++', '-I', '.', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/devel/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_ros_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/arm_components_name_manager/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/baselib_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf2inventor/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/logger_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/urdf2graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_math_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_viewer/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_traverser/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit_ros/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_transform/include', '-isystem', '/opt/ros/kinetic/include']
+0
+1
+2
+pkg_name: urdf2graspit
+dir: /home/simon/sandbox/graspitmod/catkin_ws/build/urdf2graspit
+9
+================
+['-Wall', '-Wextra', '-Werror', '-Wc++98-compat', '-Wno-long-long', '-Wno-variadic-macros', '-fexceptions', '-DNDEBUG', '-std=c++03', '-x', 'c++', '-I', '.', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/devel/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_ros_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/arm_components_name_manager/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/baselib_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf2inventor/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/logger_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/urdf2graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_math_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_viewer/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_traverser/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit_ros/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_transform/include', '-isystem', '/opt/ros/kinetic/include']
+0
+1
+2
+pkg_name: urdf2graspit
+dir: /home/simon/sandbox/graspitmod/catkin_ws/build/urdf2graspit
+9
+================
+['-Wall', '-Wextra', '-Werror', '-Wc++98-compat', '-Wno-long-long', '-Wno-variadic-macros', '-fexceptions', '-DNDEBUG', '-std=c++03', '-x', 'c++', '-I', '.', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/devel/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_ros_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/arm_components_name_manager/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/baselib_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf2inventor/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/logger_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/urdf2graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_math_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_viewer/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_traverser/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit_ros/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_transform/include', '-isystem', '/opt/ros/kinetic/include']
+0
+1
+2
+pkg_name: urdf2graspit
+dir: /home/simon/sandbox/graspitmod/catkin_ws/build/urdf2graspit
+9
+================
+['-Wall', '-Wextra', '-Werror', '-Wc++98-compat', '-Wno-long-long', '-Wno-variadic-macros', '-fexceptions', '-DNDEBUG', '-std=c++03', '-x', 'c++', '-I', '.', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/devel/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_ros_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/arm_components_name_manager/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/baselib_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf2inventor/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/logger_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/urdf2graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_math_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_viewer/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_traverser/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit_ros/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_transform/include', '-isystem', '/opt/ros/kinetic/include']
+0
+1
+2
+pkg_name: urdf2graspit
+dir: /home/simon/sandbox/graspitmod/catkin_ws/build/urdf2graspit
+9
+================
+['-Wall', '-Wextra', '-Werror', '-Wc++98-compat', '-Wno-long-long', '-Wno-variadic-macros', '-fexceptions', '-DNDEBUG', '-std=c++03', '-x', 'c++', '-I', '.', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/devel/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_ros_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/arm_components_name_manager/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/baselib_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf2inventor/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/logger_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/urdf2graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_math_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_viewer/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_traverser/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit_ros/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_transform/include', '-isystem', '/opt/ros/kinetic/include']
+0
+1
+2
+pkg_name: urdf2graspit
+dir: /home/simon/sandbox/graspitmod/catkin_ws/build/urdf2graspit
+9
+================
+['-Wall', '-Wextra', '-Werror', '-Wc++98-compat', '-Wno-long-long', '-Wno-variadic-macros', '-fexceptions', '-DNDEBUG', '-std=c++03', '-x', 'c++', '-I', '.', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/devel/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_ros_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/arm_components_name_manager/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/baselib_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf2inventor/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/logger_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/urdf2graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_math_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_viewer/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_traverser/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit_ros/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_transform/include', '-isystem', '/opt/ros/kinetic/include']
+0
+1
+2
+pkg_name: urdf2graspit
+dir: /home/simon/sandbox/graspitmod/catkin_ws/build/urdf2graspit
+9
+================
+['-Wall', '-Wextra', '-Werror', '-Wc++98-compat', '-Wno-long-long', '-Wno-variadic-macros', '-fexceptions', '-DNDEBUG', '-std=c++03', '-x', 'c++', '-I', '.', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/devel/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_ros_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/arm_components_name_manager/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/baselib_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf2inventor/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/logger_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/urdf2graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_math_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_viewer/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_traverser/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit_ros/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_transform/include', '-isystem', '/opt/ros/kinetic/include']
+0
+1
+2
+pkg_name: urdf2graspit
+dir: /home/simon/sandbox/graspitmod/catkin_ws/build/urdf2graspit
+9
+================
+['-Wall', '-Wextra', '-Werror', '-Wc++98-compat', '-Wno-long-long', '-Wno-variadic-macros', '-fexceptions', '-DNDEBUG', '-std=c++03', '-x', 'c++', '-I', '.', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/devel/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_ros_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/arm_components_name_manager/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/baselib_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf2inventor/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/logger_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/urdf2graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_math_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_viewer/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_traverser/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit_ros/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_transform/include', '-isystem', '/opt/ros/kinetic/include']
+0
+1
+2
+pkg_name: urdf2inventor
+dir: /home/simon/sandbox/graspitmod/catkin_ws/build/urdf2inventor
+9
+================
+['-Wall', '-Wextra', '-Werror', '-Wc++98-compat', '-Wno-long-long', '-Wno-variadic-macros', '-fexceptions', '-DNDEBUG', '-std=c++03', '-x', 'c++', '-I', '.', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/devel/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_ros_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/arm_components_name_manager/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/baselib_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf2inventor/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/logger_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/urdf2graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_math_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_viewer/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_traverser/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit_ros/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_transform/include', '-isystem', '/opt/ros/kinetic/include']
+0
+1
+2
+pkg_name: urdf2graspit
+dir: /home/simon/sandbox/graspitmod/catkin_ws/build/urdf2graspit
+9
+================
+['-Wall', '-Wextra', '-Werror', '-Wc++98-compat', '-Wno-long-long', '-Wno-variadic-macros', '-fexceptions', '-DNDEBUG', '-std=c++03', '-x', 'c++', '-I', '.', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/devel/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_ros_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/arm_components_name_manager/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/baselib_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf2inventor/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/logger_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/urdf2graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_math_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_viewer/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_traverser/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit_ros/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_transform/include', '-isystem', '/opt/ros/kinetic/include']
+0
+1
+2
+pkg_name: urdf2graspit
+dir: /home/simon/sandbox/graspitmod/catkin_ws/build/urdf2graspit
+9
+================
+['-Wall', '-Wextra', '-Werror', '-Wc++98-compat', '-Wno-long-long', '-Wno-variadic-macros', '-fexceptions', '-DNDEBUG', '-std=c++03', '-x', 'c++', '-I', '.', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/devel/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_ros_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/arm_components_name_manager/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/baselib_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf2inventor/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/logger_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/urdf2graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_math_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_viewer/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_traverser/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit_ros/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_transform/include', '-isystem', '/opt/ros/kinetic/include']
+0
+1
+2
+pkg_name: urdf2graspit
+dir: /home/simon/sandbox/graspitmod/catkin_ws/build/urdf2graspit
+9
+================
+['-Wall', '-Wextra', '-Werror', '-Wc++98-compat', '-Wno-long-long', '-Wno-variadic-macros', '-fexceptions', '-DNDEBUG', '-std=c++03', '-x', 'c++', '-I', '.', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/devel/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_ros_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/arm_components_name_manager/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/baselib_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf2inventor/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/logger_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/urdf2graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_math_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_viewer/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_traverser/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit_ros/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_transform/include', '-isystem', '/opt/ros/kinetic/include']
+0
+1
+2
+pkg_name: urdf_traverser
+dir: /home/simon/sandbox/graspitmod/catkin_ws/build/urdf_traverser
+9
+================
+['-Wall', '-Wextra', '-Werror', '-Wc++98-compat', '-Wno-long-long', '-Wno-variadic-macros', '-fexceptions', '-DNDEBUG', '-std=c++03', '-x', 'c++', '-I', '.', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/devel/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_ros_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/arm_components_name_manager/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/baselib_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf2inventor/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/logger_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/urdf2graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_math_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_viewer/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_traverser/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit_ros/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_transform/include', '-isystem', '/opt/ros/kinetic/include']
+0
+1
+2
+pkg_name: urdf2graspit
+dir: /home/simon/sandbox/graspitmod/catkin_ws/build/urdf2graspit
+9
+================
+['-Wall', '-Wextra', '-Werror', '-Wc++98-compat', '-Wno-long-long', '-Wno-variadic-macros', '-fexceptions', '-DNDEBUG', '-std=c++03', '-x', 'c++', '-I', '.', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/devel/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_ros_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/arm_components_name_manager/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/baselib_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf2inventor/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/logger_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/urdf2graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_math_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_viewer/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_traverser/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit_ros/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_transform/include', '-isystem', '/opt/ros/kinetic/include']
+0
+1
+2
+pkg_name: urdf2inventor
+dir: /home/simon/sandbox/graspitmod/catkin_ws/build/urdf2inventor
+9
+================
+['-Wall', '-Wextra', '-Werror', '-Wc++98-compat', '-Wno-long-long', '-Wno-variadic-macros', '-fexceptions', '-DNDEBUG', '-std=c++03', '-x', 'c++', '-I', '.', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/devel/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_ros_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/arm_components_name_manager/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/baselib_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf2inventor/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/logger_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/urdf2graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_math_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_viewer/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_traverser/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit_ros/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_transform/include', '-isystem', '/opt/ros/kinetic/include']
+0
+1
+2
+pkg_name: urdf2inventor
+dir: /home/simon/sandbox/graspitmod/catkin_ws/build/urdf2inventor
+9
+================
+['-Wall', '-Wextra', '-Werror', '-Wc++98-compat', '-Wno-long-long', '-Wno-variadic-macros', '-fexceptions', '-DNDEBUG', '-std=c++03', '-x', 'c++', '-I', '.', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/devel/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_ros_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/arm_components_name_manager/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/baselib_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf2inventor/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/logger_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/urdf2graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_math_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_viewer/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_traverser/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit_ros/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_transform/include', '-isystem', '/opt/ros/kinetic/include']
+0
+1
+2
+pkg_name: urdf2graspit
+dir: /home/simon/sandbox/graspitmod/catkin_ws/build/urdf2graspit
+9
+================
+['-Wall', '-Wextra', '-Werror', '-Wc++98-compat', '-Wno-long-long', '-Wno-variadic-macros', '-fexceptions', '-DNDEBUG', '-std=c++03', '-x', 'c++', '-I', '.', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/devel/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_ros_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/arm_components_name_manager/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/baselib_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf2inventor/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/logger_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/urdf2graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_math_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_viewer/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_traverser/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit_ros/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_transform/include', '-isystem', '/opt/ros/kinetic/include']
+0
+1
+2
+pkg_name: urdf2graspit
+dir: /home/simon/sandbox/graspitmod/catkin_ws/build/urdf2graspit
+9
+================
+['-Wall', '-Wextra', '-Werror', '-Wc++98-compat', '-Wno-long-long', '-Wno-variadic-macros', '-fexceptions', '-DNDEBUG', '-std=c++03', '-x', 'c++', '-I', '.', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/devel/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_ros_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/arm_components_name_manager/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/baselib_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf2inventor/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/logger_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/urdf2graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_math_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_viewer/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_traverser/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit_ros/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_transform/include', '-isystem', '/opt/ros/kinetic/include']
+0
+1
+2
+pkg_name: urdf2graspit
+dir: /home/simon/sandbox/graspitmod/catkin_ws/build/urdf2graspit
+9
+================
+['-Wall', '-Wextra', '-Werror', '-Wc++98-compat', '-Wno-long-long', '-Wno-variadic-macros', '-fexceptions', '-DNDEBUG', '-std=c++03', '-x', 'c++', '-I', '.', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/devel/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_ros_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/arm_components_name_manager/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/baselib_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf2inventor/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/logger_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/urdf2graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_math_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_viewer/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_traverser/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit_ros/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_transform/include', '-isystem', '/opt/ros/kinetic/include']
+0
+1
+2
+pkg_name: urdf2graspit
+dir: /home/simon/sandbox/graspitmod/catkin_ws/build/urdf2graspit
+9
+================
+['-Wall', '-Wextra', '-Werror', '-Wc++98-compat', '-Wno-long-long', '-Wno-variadic-macros', '-fexceptions', '-DNDEBUG', '-std=c++03', '-x', 'c++', '-I', '.', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/devel/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_ros_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/arm_components_name_manager/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/baselib_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf2inventor/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/logger_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/urdf2graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_math_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_viewer/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_traverser/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit_ros/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_transform/include', '-isystem', '/opt/ros/kinetic/include']
+0
+1
+2
+pkg_name: urdf2graspit
+dir: /home/simon/sandbox/graspitmod/catkin_ws/build/urdf2graspit
+9
+================
+['-Wall', '-Wextra', '-Werror', '-Wc++98-compat', '-Wno-long-long', '-Wno-variadic-macros', '-fexceptions', '-DNDEBUG', '-std=c++03', '-x', 'c++', '-I', '.', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/devel/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_ros_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/arm_components_name_manager/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/baselib_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf2inventor/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/logger_binding/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/urdf2graspit/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/convenience-pkgs/convenience_math_functions/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_viewer/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_traverser/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/graspit-pkgs/grasp_planning_graspit_ros/include', '-isystem', '/home/simon/sandbox/graspitmod/catkin_ws/src/urdf-tools-pkgs/urdf_transform/include', '-isystem', '/opt/ros/kinetic/include']

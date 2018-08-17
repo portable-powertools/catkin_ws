@@ -1,0 +1,3 @@
+shellenv_add_recursive_entry ./ shellenv_module "$layout_working_dir/src/pysdf"
+shellenv_add_recursive_entry ./ shellenv_module "$layout_working_dir/src/urdf_tutorial"
+shellenv_add_recursive_entry ./ shellenv_module "$layout_working_dir/src/graspit-pkgs/urdf2graspit"
