@@ -1,12 +1,9 @@
 /*
+!/*.layout
+!/*.sh
+!/*.sh.d
+
 !/.lvimrc
-!/here.layout
 !/log_ycm.txt
-!/interactive.sh.d
-!/interactive_post.sh
-!/module.layout
-!/module.sh
-!/module_post.sh
-!/shellenv_module.layout
 !/.ycm_extra_conf.py
 !/.gitignore
