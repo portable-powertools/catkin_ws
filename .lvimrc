@@ -1,26 +1,25 @@
 let g:ycm_log_level = 'debug'
 set verbose=0
 let g:ycm_confirm_extra_conf = 0
+let g:ale_c_parse_compile_commands = 1
+let g:ale_c_parse_makefile = 1
 
-if ! empty($ROS_WORKSPACE)
-endif
+let g:sessionBuilddir = ''
 
-if !empty($IDE_INCLUDE_FLAGS)
-    let g:ide_include_flags = join(split($IDE_INCLUDE_FLAGS, ':'), ' ')
-    let g:ale_cpp_gcc_options='-std=c++11 -Wall '.g:ide_include_flags
-    " let g:ale_cpp_clangcheck_options="-- -Wall -std=c++11 -x c++ ".g:ide_include_flags
-    " let g:ale_c_clangcheck_options="-- -Wall -std=c99 -x c ".g:ide_include_flags
-endif
+" if this encounters a ros package and its build path, then it sets it to the
+" global as well as local ALE settings. global: when the next file is
+" ecountered that is in a global package, we still have the build info
 fun! g:CppFileFlags()
-    let b:ale_linters = ['gcc']
+    let b:ale_linters = ['clangcheck']
 
     if empty($ROS_WORKSPACE)
-        execute "echoerr ROS_WORKSPACE not set!"
+        call xolox#misc#msg#debug('$ROS_WORKSPACE not set')
+        return 1
     endif
     let l:workspace=$ROS_WORKSPACE
     if ! executable('catkin')
         call xolox#misc#msg#debug('no catkin available')
-        return
+        return 1
     endif
     let l:path = expand('%:p:h')
     call xolox#misc#msg#debug('path...'.l:path)
@@ -31,7 +30,7 @@ fun! g:CppFileFlags()
     let l:packagenameL = systemlist(l:packnamecmd)
     if v:shell_error
         call xolox#misc#msg#debug('could not determine ros package from '.l:path)
-        return
+        return 1
     endif
     let l:packagename = l:packagenameL[0]
     call xolox#misc#msg#debug('packname...'.l:packagename)
@@ -39,7 +38,7 @@ fun! g:CppFileFlags()
     let l:builddirL = systemlist('catkin locate --workspace '.shellescape(l:workspace).' -b ' . fnameescape(l:packagename))
     if v:shell_error
         call xolox#misc#msg#debug('could not determine ros build dir for package '.l:builddir)
-        return
+        return 1
     endif
     let l:builddir = l:builddirL[0]
     call xolox#misc#msg#debug('builddir '.l:builddir)
@@ -48,16 +47,17 @@ fun! g:CppFileFlags()
     
     if ! isdirectory(l:builddir)
         call xolox#misc#msg#debug('catkin build dir '.l:builddir.' does not exist.')
-        return
+        return 1
     endif
 
     let l:compilecommands = l:builddir . '/compile_commands.json'
     if filereadable(l:compilecommands)
         let b:ale_c_build_dir = l:builddir
+        let g:ale_c_build_dir = l:builddir
+        let g:previousRosBuilddir = l:builddir
         call xolox#misc#msg#info('set ALE b:ale_c_build_dir to '.l:builddir)
-        let b:ale_linters = ['cpp']
         " let b:ale_linters = ['cpp', 'cppcheck', 'clangcheck', 'clangtidy', 'cquery']
-        return
+        return 0
     else
         call xolox#misc#msg#debug('no compile_commands.json found in ' . l:builddir)
     endif
