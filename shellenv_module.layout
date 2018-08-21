@@ -1,3 +1,6 @@
+shellenv_add_recursive_entry ./ shellenv_module "$layout_working_dir/src/graspit_interface"
+shellenv_add_recursive_entry ./ shellenv_module "$layout_working_dir/src/graspit_commander"
+shellenv_add_recursive_entry ./ shellenv_module "$layout_working_dir/src/clashpy"
 shellenv_add_recursive_entry ./ shellenv_module "$layout_working_dir/src/pysdf"
 shellenv_add_recursive_entry ./ shellenv_module "$layout_working_dir/src/urdf_tutorial"
 shellenv_add_recursive_entry ./ shellenv_module "$layout_working_dir/src/graspit-pkgs/urdf2graspit"

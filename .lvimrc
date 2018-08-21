@@ -3,8 +3,16 @@ set verbose=0
 let g:ycm_confirm_extra_conf = 0
 let g:ale_c_parse_compile_commands = 1
 let g:ale_c_parse_makefile = 1
+let t:Simleime_termcommand = 'linitbash here '.shellescape($mod_catkin_root)
 
-let g:sessionBuilddir = ''
+nmap <F10>et :echom Simleime_getTermcmd()<CR>
+
+
+augroup dirvish_config_lvrc
+  autocmd!
+
+  autocmd FileType dirvish nnoremap <buffer> lcd :cd %<CR>:vs<CR>:e %local.helper<CR>:LocalVimRC<CR>:q<cr>
+augroup END
 
 " if this encounters a ros package and its build path, then it sets it to the
 " global as well as local ALE settings. global: when the next file is

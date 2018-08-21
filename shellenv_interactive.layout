@@ -1,0 +1,1 @@
+shellenv_add_recursive_entry "./" shellenv_interactive "$mod_graspit_commander_root"

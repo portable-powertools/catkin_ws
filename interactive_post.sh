@@ -7,10 +7,7 @@ fi
 
 export ROS_WORKSPACE="$mod_catkin_root"
 export ROS_PACKAGE_PATH="$mod_catkin_root/src:$ROS_PACKAGE_PATH"
-# eval "$(tsb -c shellenv_build -p "$mod_graspit_root")"
 
-catkinConfig() {
-    catkin config --workspace "$mod_catkin_root" --cmake-args '-DCMAKE_EXPORT_COMPILE_COMMANDS=ON'
-}
-
+# TODO: move graspit into catkin, too
+eval "$(tsb -c shellenv_build -p "$mod_graspit_root")"
 

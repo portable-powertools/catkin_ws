@@ -1,1 +1,4 @@
 eval "$(tsb -c shellenv_interactive -p "$layout_working_dir")"
+catkinConfig() {
+    catkin config --workspace "$mod_catkin_root" --cmake-args '-DCMAKE_EXPORT_COMPILE_COMMANDS=ON'
+}
